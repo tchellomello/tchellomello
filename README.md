@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=tchellomello&show_icons=true&)](https://github.com/tchellomello)
-
 <!--
 **tchellomello/tchellomello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
